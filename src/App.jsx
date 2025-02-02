@@ -1,7 +1,10 @@
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
     <div>
-      <h1 className="font-bold text-white">fowzi media</h1>
+
+<Navbar/>
     </div>
   );
 }
