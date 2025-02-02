@@ -42,11 +42,13 @@ const SubHeader = () => {
           </div>
         </div>
       </div>
-      <div className='flex gap-[20px] mt-[20px] ms-[300px]'>
+      <div className="flex gap-[20px] mt-[20px] ms-[300px]">
         <div className="flex w-[560px] bg-white/10 backdrop-brightness-100 rounded-lg p-6 items-center">
           <div className="text-white">
-            <h1 className='font-bold text-[24px] w-[222px] h-[70px] mb-[10px]'>State-of-the-Art Studio Rentals</h1>
-            <p className='mb-[22px] text-white/80 text-[14px]'>
+            <h1 className="font-bold text-[24px] w-[222px] h-[70px] mb-[10px]">
+              State-of-the-Art Studio Rentals
+            </h1>
+            <p className="mb-[22px] text-white/80 text-[14px]">
               Fowzi Studios provides professional-grade spaces for all your
               creative projects.
             </p>
@@ -78,10 +80,12 @@ const SubHeader = () => {
         </div>
         <div className="flex w-[560px] bg-white/10 backdrop-brightness-100 rounded-lg p-6 items-center">
           <div className="text-white">
-            <h1 className='font-bold text-[24px] w-[222px] h-[70px] mb-[10px]'>Innovative Digital Solutions</h1>
-            <p className='mb-[22px] text-white/80 text-[14px]'>
-              From website design to social media, Fowzi  Digital <br /> helps build
-              your online presence.
+            <h1 className="font-bold text-[24px] w-[222px] h-[70px] mb-[10px]">
+              Innovative Digital Solutions
+            </h1>
+            <p className="mb-[22px] text-white/80 text-[14px]">
+              From website design to social media, Fowzi Digital <br /> helps
+              build your online presence.
             </p>
             <button className="border border-white w-[236px] h-[42px] rounded-[8px] flex items-center justify-center">
               Discover Fowzi Digitals

@@ -1,3 +1,4 @@
+import About from './components/About';
 import Navbar from './components/Navbar';
 import SubHeader from './components/SubHeader';
 
@@ -6,6 +7,7 @@ function App() {
     <div>
       <Navbar />
       <SubHeader/>
+      <About/>
     </div>
   );
 }
