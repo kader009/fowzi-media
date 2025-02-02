@@ -1,8 +1,34 @@
-# React + Vite
+# Task Assessment for pre-test
+this is just a simple task for justify knowledge.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## technology
 
-Currently, two official plugins are available:
+- React
+- Javascript
+- Tailwindcss
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to run this repository
+
+``` json
+clone <repository link>
+
+```
+
+``` json
+goto the file
+
+```
+
+``` json
+npm install
+
+```
+
+``` json
+npm run dev 
+
+```
+
+If you follow this step you can run this easily.
+
+
