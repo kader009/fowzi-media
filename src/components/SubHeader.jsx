@@ -37,7 +37,7 @@ const SubHeader = () => {
             <img
               src={Subhero}
               alt="sub hero images"
-              className="w-[455px] h-[330px] rounded-[8px] "
+              className="w-[455px] h-[330px] rounded-[8px] object-cover"
             />
           </div>
         </div>
@@ -74,7 +74,7 @@ const SubHeader = () => {
             <img
               src={Subhero1}
               alt="fowzi studios"
-              className="w-[310px] h-[180px] rounded-[8px]"
+              className="w-[310px] h-[180px] rounded-[8px] object-cover"
             />
           </div>
         </div>
@@ -109,7 +109,7 @@ const SubHeader = () => {
             <img
               src={Subhero2}
               alt="fowzi studios"
-              className="w-[280px] h-[180px] rounded-[8px]"
+              className="w-[280px] h-[180px] rounded-[8px] object-cover"
             />
           </div>
         </div>

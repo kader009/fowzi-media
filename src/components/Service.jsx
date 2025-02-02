@@ -1,7 +1,7 @@
 const Service = () => {
   return (
     <div>
-      <div className="mb-[150px]">
+      <div className="mb-[120px]">
         <div className="text-center text-white">
           <span className="bg-gray-800 rounded-full px-[6px] py-[2px] ">
             Service

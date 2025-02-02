@@ -8,7 +8,7 @@ const About = () => {
       <div className="flex justify-center items-center">
         <div>
           <div>
-            <img src={about} alt="" className="w-[300px] h-[400px] rounded" />
+            <img src={about} alt="" className="w-[300px] h-[400px] rounded object-cover" />
           </div>
         </div>
         <div className='ms-[30px] space-y-[50px]'>
@@ -16,7 +16,7 @@ const About = () => {
             <img
               src={about1}
               alt=""
-              className="rounded-[16px] w-[260px] h-[290px]"
+              className="rounded-[16px] w-[260px] h-[290px] object-cover"
             />
           </div>
           <div>
