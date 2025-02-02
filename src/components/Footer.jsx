@@ -53,11 +53,11 @@ const Footer = () => {
             {/* Quick Links Column */}
             <div className="space-y-4">
               <h3 className="text-lg font-bold mb-4">Information</h3>
-              <ul className="space-y-3">
+              <ul className="space-y-3 ">
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Home
                   </a>
@@ -65,7 +65,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Service
                   </a>
@@ -73,7 +73,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Portfolio
                   </a>
@@ -81,7 +81,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Blogs
                   </a>
@@ -96,7 +96,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Fowzi Prints
                   </a>
@@ -104,7 +104,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Fowzi Studios
                   </a>
@@ -112,7 +112,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Fowzi Digital
                   </a>
@@ -120,7 +120,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Contact Us
                   </a>
@@ -133,7 +133,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Supports
                   </a>
@@ -141,7 +141,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Terms & Condition
                   </a>
@@ -149,7 +149,7 @@ const Footer = () => {
                 <li>
                   <a
                     href="#"
-                    className="hover:text-[#FF0101] transition-colors"
+                    className="hover:text-[#FF0101] transition-colors text-white/80"
                   >
                     Privacy Policy
                   </a>
@@ -160,7 +160,7 @@ const Footer = () => {
 
           {/* Copyright Section */}
           <div className="border-t border-white/10 pt-8 text-center">
-            <p className="text-white/60">
+            <p className="text-white">
               © 2024 Fowzi Media. All Rights Reserved.
             </p>
           </div>
