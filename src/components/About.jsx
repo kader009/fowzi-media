@@ -3,7 +3,7 @@ import about1 from '../assets/about1.png';
 
 const About = () => {
   return (
-    <div className="text-white mb-[150px]">
+    <div className="text-white mb-[130px]">
       {/* main */}
       <div className="flex justify-center items-center">
         <div>

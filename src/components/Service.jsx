@@ -1,7 +1,7 @@
 const Service = () => {
   return (
     <div>
-      <div className="mb-[120px]">
+      <div className="mb-[100px]">
         <div className="text-center text-white">
           <span className="bg-gray-800 rounded-full px-[6px] py-[2px] ">
             Service
@@ -14,7 +14,7 @@ const Service = () => {
           <div className="max-w-7xl mx-auto px-4 py-16 text-white">
             <div className="grid grid-cols-3">
               {/* Service Card 1 - Comprehensive Services */}
-              <div className="bg-white/10 p-8 rounded-xl backdrop-blur-lg border border-white/5 hover:bg-white/15 transition-all w-[340px]">
+              <div className="bg-white/7 p-8 rounded-xl backdrop-blur-lg border border-white/5 hover:bg-white/15 transition-all w-[340px]">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -39,7 +39,7 @@ const Service = () => {
               </div>
 
               {/* Service Card 2 - Tailored Approach */}
-              <div className="bg-white/10 p-8 rounded-xl backdrop-blur-lg border border-white/5 hover:bg-white/15 transition-all w-[340px]">
+              <div className="bg-white/7 p-8 rounded-xl backdrop-blur-lg border border-white/5 hover:bg-white/15 transition-all w-[340px]">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
@@ -62,7 +62,7 @@ const Service = () => {
               </div>
 
               {/* Service Card 3 - Experienced Team */}
-              <div className="bg-white/10 p-8 rounded-xl backdrop-blur-lg border border-white/5 hover:bg-white/15 transition-all w-[340px]">
+              <div className="bg-white/7 p-8 rounded-xl backdrop-blur-lg border border-white/5 hover:bg-white/15 transition-all w-[340px]">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"

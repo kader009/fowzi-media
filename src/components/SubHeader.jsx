@@ -5,7 +5,7 @@ import Subhero2 from '../assets/sub2.png';
 const SubHeader = () => {
   return (
     <div className="my-[150px] ms-[240px] ml-[40px]">
-      <div className="bg-white/10 backdrop-brightness-100 rounded-lg w-[1140px] h-[384px] ms-[300px]">
+      <div className="bg-white/7 backdrop-brightness-100 rounded-lg w-[1140px] h-[384px] ms-[300px]">
         <div className=" flex justify-between items-center p-6 ">
           <div className="w-[432px] h-[156px] text-white">
             <h1 className="font-bold text-[32px]">
@@ -43,7 +43,7 @@ const SubHeader = () => {
         </div>
       </div>
       <div className="flex gap-[20px] mt-[20px] ms-[300px]">
-        <div className="flex w-[560px] bg-white/10 backdrop-brightness-100 rounded-lg p-6 items-center">
+        <div className="flex w-[560px] bg-white/7 backdrop-brightness-100 rounded-lg p-6 items-center">
           <div className="text-white">
             <h1 className="font-bold text-[24px] w-[222px] h-[70px] mb-[10px]">
               State-of-the-Art Studio Rentals
@@ -78,7 +78,7 @@ const SubHeader = () => {
             />
           </div>
         </div>
-        <div className="flex w-[560px] bg-white/10 backdrop-brightness-100 rounded-lg p-6 items-center">
+        <div className="flex w-[560px] bg-white/7 backdrop-brightness-100 rounded-lg p-6 items-center">
           <div className="text-white">
             <h1 className="font-bold text-[24px] w-[222px] h-[70px] mb-[10px]">
               Innovative Digital Solutions
