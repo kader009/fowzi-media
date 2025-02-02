@@ -30,6 +30,20 @@ const Navbar = () => {
           </button>
         </div>
       </nav>
+
+      <div>
+        <div className='text-center text-white'>
+          <h2>
+          Creative Solutions for Modern Brands
+          </h2>
+          <p> Direct and minimal explanation.</p>
+          <div>
+
+          <button className='bg-[#FF0101] w-[236px] h-[42px] rounded-[8px]'>Visit Fowzi Studios</button><button className='border border-white w-[236px] h-[42px] rounded-[8px]'> Discover Fowzi Digital</button>
+          </div>
+        </div>
+        <div></div>
+      </div>
     </div>
   );
 };
