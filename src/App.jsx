@@ -1,12 +1,9 @@
-
-
 function App() {
-
   return (
     <div>
-      <h1 className="font-bold">fowzi media</h1>
+      <h1 className="font-bold text-white">fowzi media</h1>
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
